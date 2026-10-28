@@ -1,0 +1,4 @@
+# Only requirements.txt and app.py go into the image; keep the build context small.
+*
+!requirements.txt
+!app.py
